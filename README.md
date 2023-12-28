@@ -28,7 +28,7 @@
 <li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_a-propriedade-list-style-%C3%A9-usada-em-css-para-activity-7140727376665124864-ekwu?utm_source=share&utm_medium=member_desktop"> Propriedade list-style</a></p></li>
 <li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_pseudo-classes-s%C3%A3o-seletores-especiais-em-activity-7140739378011684864-Rg5R?utm_source=share&utm_medium=member_desktop">Pseudo-classes</a></p></li>
 <li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_cada-novo-aprendizado-%C3%A9-uma-jornada-que-amplia-activity-7140740521026633729-mBvr?utm_source=share&utm_medium=member_desktop">Box Model</a></p></li>
-<li><p><a href="https://www.linkedin.com/posts/priscila-roverssi-529756156_explorar-o-power-bi-%C3%A9-uma-experi%C3%AAncia-verdadeiramente-activity-7143627849478971393-LsAw utm_source=share&utm_medium=member_desktop">Power BI</a></p></li>
+<li><p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7143627849478971393/">Power BI</a></p></li>
 </ul>
 
 ![Priscila GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilaroverssi&show_icons=true&theme=transparent)
